@@ -34,6 +34,9 @@ PWA（Progressive web apps，渐进式 Web 应用）运用现代的 Web API 以�
 * [weibo beta][18]
 * [豆瓣][19]
 * [2048][20] - 小游戏
+* [消灭星星][21]
+
+> 字节跳动内推码 RWQMBNH [校招][22] [社招][23]
 
 
   [1]: https://developers.google.com/web/progressive-web-apps/
@@ -56,3 +59,6 @@ PWA（Progressive web apps，渐进式 Web 应用）运用现代的 Web API 以�
   [18]: https://m.weibo.cn/beta
   [19]: https://m.douban.com/
   [20]: https://games.redream.cn/2048/
+  [21]: https://games.redream.cn/popstar/
+  [22]: https://job.toutiao.com/mobile/campus/invite/RWQMBNH/?from=singlemessage
+  [23]: https://job.toutiao.com/2018/spring_referral/?token=LNgCfLZQA/vviQwGKFphxg==&key=MzE0MDMsMzEyODIsMjc5MjUsMzMxNTcsMzE3OTYsMzIxNzcsMTE2NjA=
